@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/AlCaponeProject/static/media/bar.c6820862.jpg"
   },
   {
-    "revision": "e5aa588958d6b6c93500",
-    "url": "/AlCaponeProject/static/css/main.e21172bb.chunk.css"
+    "revision": "2b5e58a6f18d8cbedf29",
+    "url": "/AlCaponeProject/static/css/main.ea0c33ab.chunk.css"
   },
   {
     "revision": "c0d793f1690dbf4d45cf7190ead12278",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/AlCaponeProject/static/media/eingang.87fdc128.jpg"
   },
   {
-    "revision": "e5aa588958d6b6c93500",
-    "url": "/AlCaponeProject/static/js/main.e5aa5889.chunk.js"
+    "revision": "2b5e58a6f18d8cbedf29",
+    "url": "/AlCaponeProject/static/js/main.2b5e58a6.chunk.js"
   },
   {
     "revision": "f3e789bb854adf89c8aebc2346a5ab70",
     "url": "/AlCaponeProject/static/media/TourVideo NEW.f3e789bb.mp4"
   },
   {
-    "revision": "3afa17af2d67983966cb8556870b602f",
-    "url": "/AlCaponeProject/static/media/panorama.3afa17af.jpg"
+    "revision": "b5cecc11b3139371fe0d75ba787bb273",
+    "url": "/AlCaponeProject/static/media/panorama.b5cecc11.jpg"
   },
   {
     "revision": "13c334dbb966b0221bca1a764b648129",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/AlCaponeProject/static/css/1.1d84d1e0.chunk.css"
   },
   {
-    "revision": "1216a7328b09161fd5b4f1731c5f5baa",
+    "revision": "122efa1434e3197dc53cb81cd72659d2",
     "url": "/AlCaponeProject/index.html"
   }
 ];

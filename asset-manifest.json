@@ -1,7 +1,7 @@
 {
-  "main.css": "/AlCaponeProject/static/css/main.e21172bb.chunk.css",
-  "main.js": "/AlCaponeProject/static/js/main.e5aa5889.chunk.js",
-  "main.js.map": "/AlCaponeProject/static/js/main.e5aa5889.chunk.js.map",
+  "main.css": "/AlCaponeProject/static/css/main.ea0c33ab.chunk.css",
+  "main.js": "/AlCaponeProject/static/js/main.2b5e58a6.chunk.js",
+  "main.js.map": "/AlCaponeProject/static/js/main.2b5e58a6.chunk.js.map",
   "static/css/1.1d84d1e0.chunk.css": "/AlCaponeProject/static/css/1.1d84d1e0.chunk.css",
   "static/js/1.a2d7bab5.chunk.js": "/AlCaponeProject/static/js/1.a2d7bab5.chunk.js",
   "static/js/1.a2d7bab5.chunk.js.map": "/AlCaponeProject/static/js/1.a2d7bab5.chunk.js.map",
@@ -10,14 +10,14 @@
   "static/media/logo.png": "/AlCaponeProject/static/media/logo.60b3cac0.png",
   "static/media/bar.jpg": "/AlCaponeProject/static/media/bar.c6820862.jpg",
   "static/media/TourVideo NEW.mp4": "/AlCaponeProject/static/media/TourVideo NEW.f3e789bb.mp4",
-  "static/media/panorama.jpg": "/AlCaponeProject/static/media/panorama.3afa17af.jpg",
+  "static/media/panorama.jpg": "/AlCaponeProject/static/media/panorama.b5cecc11.jpg",
   "static/media/preisliste.jpg": "/AlCaponeProject/static/media/preisliste.13c334db.jpg",
   "static/media/opened.jpg": "/AlCaponeProject/static/media/opened.6ff9faad.jpg",
   "static/media/instagram.png": "/AlCaponeProject/static/media/instagram.c0d793f1.png",
   "static/media/eingang.jpg": "/AlCaponeProject/static/media/eingang.87fdc128.jpg",
-  "static/css/main.e21172bb.chunk.css.map": "/AlCaponeProject/static/css/main.e21172bb.chunk.css.map",
+  "static/css/main.ea0c33ab.chunk.css.map": "/AlCaponeProject/static/css/main.ea0c33ab.chunk.css.map",
   "static/css/1.1d84d1e0.chunk.css.map": "/AlCaponeProject/static/css/1.1d84d1e0.chunk.css.map",
   "index.html": "/AlCaponeProject/index.html",
-  "precache-manifest.ad41a8ff360b465736ea6ee85ac960db.js": "/AlCaponeProject/precache-manifest.ad41a8ff360b465736ea6ee85ac960db.js",
+  "precache-manifest.1be4008f1bf731808df082925f70db51.js": "/AlCaponeProject/precache-manifest.1be4008f1bf731808df082925f70db51.js",
   "service-worker.js": "/AlCaponeProject/service-worker.js"
 }
